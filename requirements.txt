@@ -1,0 +1,8 @@
+pandas>=2.2,<3
+numpy>=1.26,<3
+requests>=2.32
+transformers>=4.45,<6
+torch>=2.4,<3
+sentence-transformers>=3.0
+streamlit>=1.38
+sentencepiece>=0.2
