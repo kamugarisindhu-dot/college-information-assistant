@@ -2,23 +2,29 @@
   "name": null,
   "history": [
     {
-      "time": "2026-10-05 14:50",
-      "question": "what is the fee structure for cse",
-      "answer": "The one-time admission fee is Rs 10,000. The university and exam fee is about Rs 4,000 per year. The one-time admission fee for PG courses is Rs 8,000 and the refundable caution deposit is Rs 5,000. Fees can be paid online through the college portal using UPI, net banking, credit or debit card, or by demand draft in favour of ABC Institute of Technology.",
-      "topic": "Fee Structure B.Tech"
+      "time": "2026-10-06 14:19",
+      "question": "can you give me the Eligibility Criteria",
+      "answer": "Here are the Eligibility Criteria for the courses offered at ABC Institute of Technology:\n\n* B.Tech:\n\t+ Must have passed 12th with Maths, Physics, and Chemistry with at least 45% marks (40% for reserved categories)\n* M.Tech:\n\t+ Relevant B.Tech or BE degree\n* MBA:\n\t+ Any bachelor degree with 50% marks\n* MCA:\n\t+ Any bachelor degree with 50% marks\n\t+ Maths at 12th or degree level (for MCA)",
+      "topic": "Eligibility Criteria"
     },
     {
-      "time": "2026-10-05 14:51",
-      "question": "bus routes",
-      "answer": "Route 4 starts at LB Nagar at 6:30 AM and covers Dilsukhnagar, Malakpet, Nampally, Lakdikapul and Khairatabad before reaching the college at 8:25 AM. The yearly bus fee for Route 4 is Rs 25,000, as this is the longest route. Route 8 starts at Mehdipatnam at 7:00 AM, goes via Tolichowki, Shaikpet, Film Nagar and Jubilee Hills and costs Rs 20,000 per year. The yearly bus fee for Route 1 is Rs 18,000.",
-      "topic": "Bus Route 4 LB Nagar"
+      "time": "2026-10-06 14:20",
+      "question": " Fee Structure ",
+      "answer": "Here is the Fee Structure for the courses offered at ABC Institute of Technology:\n\n* B.Tech:\n\t+ Tuition fee: Rs 95,000 per year\n\t+ One-time admission fee: Rs 10,000\n\t+ Caution deposit: Rs 5,000 (refundable at the end of the course)\n\t+ University and exam fee: Rs 4,000 per year\n\t+ Management quota B.Tech students: Rs 1,40,000 per year\n* MBA and MCA:\n\t+ Fees not mentioned in the provided information.\n\nPlease note that the fee structure may be subject to change, and it's always best to check with the college office for the latest information. If you have any further questions, you can contact the college office at info@abcit.edu.in or 040-1234-5678.",
+      "topic": "Attendance Rules"
     },
     {
-      "time": "2026-10-05 14:51",
-      "question": "hostel fee structure",
-      "answer": "The hostel fee including mess is Rs 60,000 per year for a three-sharing room, Rs 75,000 per year for a two-sharing room and Rs 1,00,000 per year for a single room with attached bathroom. A refundable hostel deposit of Rs 5,000 is collected at joining. The girls hostel has 3 blocks with rooms for 800 students and is inside the campus with restricted entry. Hostel in-time is 9:30 PM for first year students and 10:00 PM for other years.",
+      "time": "2026-10-06 14:21",
+      "question": "hostel fee details",
+      "answer": "Here are the Hostel Fee details:\n\n* Hostel fee including mess:\n\t+ Three-sharing room: Rs 60,000 per year\n\t+ Two-sharing room: Rs 75,000 per year\n\t+ Single room with attached bathroom: Rs 1,00,000 per year\n* Hostel deposit:\n\t+ Refundable hostel deposit: Rs 5,000 (collected at joining)\n* Electricity:\n\t+ Electricity is included for standard use",
       "topic": "Hostel Fees"
+    },
+    {
+      "time": "2026-10-06 14:25",
+      "question": "What are the snacks timings in the Mess?",
+      "answer": "According to the college information, snacks are served in the Mess from 5:00 to 5:45 PM.",
+      "topic": "Mess and Food in Hostel"
     }
   ],
-  "last_topic": "Hostel Fees"
+  "last_topic": "Mess and Food in Hostel"
 }
